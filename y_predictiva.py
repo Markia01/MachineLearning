@@ -10,4 +10,4 @@ for i in range(3):          # 3 filas
         valor = valor + values.X[i][j] * values.w[j]
     y_hat.append(valor)
 
-#print("y_hat =", y_hat)
+print("y_hat =", y_hat)
